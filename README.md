@@ -3,37 +3,6 @@
 Project Overview:
 This project aims to analyze customer behavior, identify churn drivers, and build predictive models to forecast churn in e-commerce platforms. Using real-world datasets from platforms like Flipkart, Amazon, and Nykaa, this project covers the full data analytics lifecycle: data collection, preprocessing, exploratory analysis, modeling, and deployment.
 
-🗂 Project Structure
-ecommerce-churn-analysis/
-│
-├── data/
-│   ├── customers.csv         # Raw customer data
-│   ├── transactions.csv      # Raw transaction data
-│   └── products.csv          # Product catalog
-│
-├── notebooks/
-│   ├── 01_data_collection.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_eda.ipynb
-│   ├── 04_rca.ipynb
-│   ├── 05_baseline_model.ipynb
-│   └── 06_advanced_model.ipynb
-│
-├── models/
-│   ├── logistic_model.pkl
-│   └── xgboost_model.pkl
-│
-├── app/
-│   └── streamlit_app.py
-│
-├── dashboards/
-│   └── churn_dashboard.pbix
-│
-├── reports/
-│   └── churn_rca_report.pdf
-│
-├── requirements.txt
-└── README.md
 
 🔹 Week-wise Deliverables
 Week 1 – Data Collection
