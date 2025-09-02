@@ -5,6 +5,7 @@ This project aims to analyze customer behavior, identify churn drivers, and buil
 
 
 🔹 Week-wise Deliverables
+
 Week 1 – Data Collection
 
 Collected product, pricing, review, and transaction data using:
