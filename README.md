@@ -1,4 +1,5 @@
-# E-commerce-Churn-Retention-Project
+# E-commerce-Churn-Retention-Analysis
+
 
 Project Overview:
 This project aims to analyze customer behavior, identify churn drivers, and build predictive models to forecast churn in e-commerce platforms. Using real-world datasets from platforms like Flipkart, Amazon, and Nykaa, this project covers the full data analytics lifecycle: data collection, preprocessing, exploratory analysis, modeling, and deployment.
